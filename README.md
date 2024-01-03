@@ -29,26 +29,40 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 
 
-Write the detailed procedure here 
+
 
 
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: swetha.m 
+RegisterNumber: 23003160 
 */
+![Screenshot 2024-01-03 080401](https://github.com/swetha23003160/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150416143/c3ab63ed-7869-4037-86bf-8f7a7c1095df)
 
-## Output:
 
-## Truthtable
+
+
+## Truthtable:
+halfsubractor
+![Screenshot 2024-01-03 080421](https://github.com/swetha23003160/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150416143/9445dab1-656a-40ba-8b67-282c2401feda)
+
+fullsubractor
+![Screenshot 2024-01-03 080427](https://github.com/swetha23003160/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150416143/faa5644f-e643-4fc0-ae6f-9c737f14a5cd)
 
 
 
 ##  RTL realization
+halfsubractor
+![Screenshot 2024-01-03 080410](https://github.com/swetha23003160/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150416143/dcaed88d-38f0-4c96-a27b-f23c8f39f27f)
 
+fullsubractor
+![Screenshot 2024-01-03 080415](https://github.com/swetha23003160/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150416143/7d76e95f-a655-4c1c-bede-3d50d7ba1a79)
 
 ## Timing diagram 
+
+![Screenshot 2024-01-03 080436](https://github.com/swetha23003160/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150416143/495b061e-0204-4ffd-8cbc-9e4fcda0f072)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
